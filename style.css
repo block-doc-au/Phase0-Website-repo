@@ -77,8 +77,9 @@ html, body {
   ul {
     font-size: 1em;
     color: antiquewhite; 
+    font-style: italic;
   }
-  
+
   a {
     color: antiquewhite;
     text-decoration: none;
