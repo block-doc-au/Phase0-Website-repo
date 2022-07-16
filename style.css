@@ -74,6 +74,11 @@ html, body {
     color: antiquewhite;
   }
   
+  ul {
+    font-size: 1em;
+    color: antiquewhite; 
+  }
+  
   a {
     color: antiquewhite;
     text-decoration: none;
